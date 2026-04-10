@@ -1,0 +1,5 @@
+fname=input("what is your name?")
+surname=input("what is your surname?")
+year=input("what is your year of birth?")
+currentyear=input("what is the current year")
+print(f"good day {fname} {surname} {year } {currentyear}")

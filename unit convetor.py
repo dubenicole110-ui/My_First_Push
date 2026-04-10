@@ -1,0 +1,6 @@
+print("=== Unit Convetor ===")
+print("1. USD to ZWG")
+print("2. Rands to ZWG")
+print("3. Pounds to ZWG")
+ choice = input("Choose an option (1/2/3):")
+amount = (input("enter amount:"))
