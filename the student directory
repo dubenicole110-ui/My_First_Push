@@ -1,0 +1,11 @@
+student={}
+name="Nicole"
+role="student"
+score="78"
+
+student["name"]='Nicole'
+student["score"]= 100
+student["is_active"]=True
+
+print(student)
+
